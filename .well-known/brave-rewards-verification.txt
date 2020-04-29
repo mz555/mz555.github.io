@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mz555.github.io
+Token: d2bbfe8edb11adb4f29ca097919927f7f2646c752e4bccac21e6e9c763692a82
